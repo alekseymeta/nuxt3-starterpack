@@ -1,6 +1,13 @@
 # Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a minimal starter for Nuxt 3.
+Includes:
+
+- [Nuxt 3](https://nuxt.com/)
+- [Ant Design Vue](https://ant.design/)
+- [Pinia](https://pinia.vuejs.org/)
+- [Eslint](https://eslint.vuejs.org/)
+- [NuxtIcons](https://nuxticons.org/)
 
 ## Setup
 
